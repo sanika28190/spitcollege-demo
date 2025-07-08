@@ -1,4 +1,4 @@
 # spitcollege-demo
 This is my first github repository.
 <br>
-author-sanika gangane satish 
+author-sanika gangane satish.
